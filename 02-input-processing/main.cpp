@@ -4,8 +4,6 @@ using std::cout;
 using std::cin;
 
 int main() {
-
-
 	char digit;
 	int oddLengthChecksum = 0;
 	int evenLengthChecksum = 0;
